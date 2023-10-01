@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning about:
   HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions!
 
+LinkedIn
 
+http://linkedin.com/in/katie-williams-b9652946
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
