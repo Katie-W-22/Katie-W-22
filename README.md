@@ -1,7 +1,13 @@
 ### Hi Everyone 👋 I'm a developer-in-training with the School of Code 
  I'm curretly working on my Portfolio Page; adding new features as I learn about them!
 
- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+- 🌱 I’m currently learning about:
+  HTML
+  CSS
+  JavaScript
+  node.js, express.js
+  RESTful APIs & CRUD functions
+
 
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
