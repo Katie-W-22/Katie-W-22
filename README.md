@@ -2,11 +2,7 @@
  I'm curretly working on my Portfolio Page; adding new features as I learn about them!
 
 - 🌱 I’m currently learning about:
-  HTML
-  CSS
-  JavaScript
-  node.js, express.js
-  RESTful APIs & CRUD functions
+  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions!
 
 
 <!--
