@@ -1,5 +1,5 @@
 ### Hi Everyone 👋 I'm a developer-in-training with the School of Code 
-
+ I'm curretly working on my Portfolio Page; adding new features as I learn about them!
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
