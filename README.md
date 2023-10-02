@@ -8,6 +8,10 @@ LinkedIn
 
 http://linkedin.com/in/katie-williams-b9652946
 
+Twitter
+
+Follow my #100DaysOfCode  @katiecoder22
+
 Before School of Code...
 
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
