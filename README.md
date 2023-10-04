@@ -1,5 +1,5 @@
 ### Hi Everyone 👋 I'm a developer-in-training with the School of Code 
- I'm curretly working on my Portfolio Page; adding new features as I learn about them!
+ I'm curretly working on my Portfolio Page (please see KW-portfolio-page repo); adding new features as I learn about them!
 
 - 🌱 I’m currently learning about:
   HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions!
