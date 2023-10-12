@@ -8,7 +8,7 @@ LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 <br>
 [![linkedin](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0)][1];
 
-Twitter
+Twitter  https://twitter.com/katiecoder22
 
 Follow my #100DaysOfCode  @katiecoder22
 
