@@ -5,7 +5,7 @@
   HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions!
 
 LinkedIn
-
+![linkedin](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0)
 http://linkedin.com/in/katie-williams-b9652946
 
 Twitter
@@ -17,6 +17,7 @@ Before School of Code...
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
 During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. Please see my portfolio-page for more details!
 
+[1]: [https://www.linkedin.com/in/katie-williams-b9652946/]
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
