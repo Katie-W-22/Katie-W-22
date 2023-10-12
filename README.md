@@ -9,7 +9,7 @@ LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 [![linkedin](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0)][1];
 
 Twitter  https://twitter.com/katiecoder22
-
+[![twitter1](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/ee6de26f-ccc3-40e7-abf1-4c3cf84cc956)]
 Follow my #100DaysOfCode  @katiecoder22
 
 Before School of Code...
