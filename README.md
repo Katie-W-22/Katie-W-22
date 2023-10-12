@@ -17,7 +17,7 @@ Before School of Code...
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
 During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. Please see my portfolio-page for more details!
 
-[1]: https://www.linkedin.com/in/katie-williams-b9652946
+
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]:https://www.linkedin.com/in/katie-williams-b9652946
