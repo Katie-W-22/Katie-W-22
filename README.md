@@ -1,8 +1,8 @@
 ### Hi Everyone 👋 I'm a developer-in-training with the School of Code 
- I'm curretly working on my Portfolio Page (please see KW-portfolio-page repo); adding new features as I learn about them!
+ I'm curretly working on various projects and adding new features as I learn about them! Please take a look below!
 
 - 🌱 I’m currently learning about:
-  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions!
+  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions, TDD...!
 
 LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 <br>
