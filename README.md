@@ -19,6 +19,8 @@ Before School of Code...
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
 During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. Please see my portfolio-page for more details!
 
+![html](https://user-images.githubusercontent.com/142401708/275325100-40451950-b515-467b-a940-7fde7a4c9e57.png)
+
 [1]:https://www.linkedin.com/in/katie-williams-b9652946;
 <!--
 **Katie-W-22/Katie-W-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
