@@ -6,11 +6,11 @@
 
 LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 <br>
-![linkedin](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0)
+<img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0" width="50" height="50">
 
 Twitter  https://twitter.com/katiecoder22
 <br>
-![twitter1](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/ee6de26f-ccc3-40e7-abf1-4c3cf84cc956)
+<img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/ee6de26f-ccc3-40e7-abf1-4c3cf84cc956" width="50" height="50">
 <br>
 Follow my #100DaysOfCode  @katiecoder22
 
