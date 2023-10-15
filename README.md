@@ -19,7 +19,7 @@ Before School of Code...
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
 During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. Please see my portfolio-page for more details!
 
-<img src = "https://user-images.githubusercontent.com/142401708/275325100-40451950-b515-467b-a940-7fde7a4c9e57.png" width="10", height="10"/> 
+<img src = "https://user-images.githubusercontent.com/142401708/275325100-40451950-b515-467b-a940-7fde7a4c9e57.png" width="10" height="10"> 
 
 ![css](https://github.com/Katie-W-22/Katie-W-22/assets/142401708/7742c78c-54b0-4e6b-8c92-4f32b451e3ad)
 
