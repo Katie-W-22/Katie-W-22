@@ -5,7 +5,7 @@ Hi Everyone! I'm a developer-in-training with the School of Code 👩🏻‍💻
 <br>
 Before The School of Code...
 
-For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
+After achieving a masters degree in Mathematics from Durham University, I was a maths teacher for 18 years in the sixth-form sector, teaching A-levels in Maths and Further Maths.
 During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. I'm now a full-stack developer-in-training with The School of Code! Please see my portfolio-page for more details!
 
 I'm currently working on various projects and adding new features as I learn about them...Please take a look below!
