@@ -1,4 +1,4 @@
-<img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/5c93f2a0-4e6b-456d-9532-06bc3bfb96d8">
+<img src="">
 <br>
 <br>
 Hi Everyone! I'm a developer-in-training with the School of Code 👩🏻‍💻
