@@ -1,5 +1,8 @@
-### Hi Everyone 👋 I'm a developer-in-training with the School of Code 👩🏻‍💻
-
+<img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/5c93f2a0-4e6b-456d-9532-06bc3bfb96d8">
+<br>
+<br>
+Hi Everyone! I'm a developer-in-training with the School of Code 👩🏻‍💻
+<br>
 Before The School of Code...
 
 For 18 years I was a maths teacher in the sixth-form sector, teaching A-levels in Maths and Further Maths.
