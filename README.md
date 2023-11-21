@@ -6,12 +6,12 @@ Hi Everyone! I'm a full-stack software developer with the School of Code 👩�
 Before The School of Code...
 
 After achieving a masters degree in Mathematics from Durham University, I was a maths teacher for 18 years in the sixth-form sector, teaching A-levels in Maths and Further Maths.
-During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. I'm now a full-stack developer-in-training with The School of Code! Please see my portfolio-page for more details!
+During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. I'm now a full-stack developer-in-training with The School of Code! 
 
-I'm currently working on various projects and adding new features as I learn about them...Please take a look below!
+I'm currently working on various projects and adding new features as I learn about them...Please see my pinned repos!
 
 - 🌱 I’m currently learning about:
-  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions, TDD...!
+  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions, TDD, React, Next.js...and more!
 
 <img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0" width="50" height="50"> LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 <br>
