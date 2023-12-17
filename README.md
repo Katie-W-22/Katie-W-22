@@ -11,7 +11,7 @@ During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of De
 I'm currently working on various projects and adding new features as I learn about them...Please see my pinned repos!
 
 - 🌱 I’m currently learning about:
-  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions, TDD, React, Next.js...and more!
+  HTML, CSS, JavaScript, node.js, RESTful APIs & CRUD functions, TDD, React, Next.js, Tailwind...and more!
 
 <img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/daa72bc4-c136-4b75-a7ca-683dc48b73a0" width="50" height="50"> LinkedIn https://www.linkedin.com/in/katie-williams-b9652946/
 <br>
