@@ -7,6 +7,12 @@ Hi Everyone! I'm a full-stack software developer with the School of Code ğŸ‘©ğŸ
 Take a look at the promo video for our final project here: https://lnkd.in/eUmzpMJJ
 <br>
 <br>
+<img width="300" alt="Screenshot 2024-01-05 at 15 05 24" src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/55eeee4e-cd01-4085-a3da-8c286cba1775">
+<img width="300" alt="Screenshot 2024-01-05 at 15 06 31" src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/e11ba25c-40eb-4c42-9340-1fecfc52b290">
+<img width="310" alt="Screenshot 2024-01-05 at 15 10 43" src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/45bc0e23-9218-4fd3-99a6-0c70b03c8d8d">
+
+<br>
+<br>
 Before The School of Code...
 
 After achieving a masters degree in Mathematics from Durham University, I was a maths teacher for 18 years in the sixth-form sector, teaching A-levels in Maths and Further Maths.
