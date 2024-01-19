@@ -4,6 +4,9 @@
 Hi Everyone! I'm a full-stack software developer with the School of Code 👩🏻‍💻 
 <br>
 <br>
+My portfolio: https://katie-williams.vercel.app/   (mobile first, reponsive styling under construction)
+<br>
+<br>
 Take a look at the promo video for our final project here: https://lnkd.in/eUmzpMJJ
 <br>
 <br>
