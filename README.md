@@ -1,11 +1,12 @@
 <img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/51bc51d0-d08d-497a-a111-1a06f271c090">
 <br>
 <br>
-Hi Everyone! I'm a full-stack software developer with the School of Code 👩🏻‍💻 
+Hi Everyone! I'm a junior software developer with the School of Code 👩🏻‍💻 
 <br>
 <br>
 My portfolio: https://katie-williams.vercel.app/   (mobile first, reponsive styling under construction)
 <br>
+Portfolio created for local portrait artist: https://cw-artist.vercel.app/
 <br>
 Take a look at the promo video for our final project here: https://lnkd.in/eUmzpMJJ
 <br>
