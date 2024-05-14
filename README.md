@@ -1,14 +1,14 @@
 <img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/51bc51d0-d08d-497a-a111-1a06f271c090">
 <br>
 <br>
-Hi Everyone! I'm a junior software developer with the School of Code 👩🏻‍💻 
+Hi Everyone! I'm a junior software engineer! 👩🏻‍💻 
 <br>
 <br>
-My portfolio: https://katie-williams.vercel.app/   (mobile first, reponsive styling under construction)
+My portfolio: https://katie-williams.vercel.app/   (mobile first)
 <br>
 Portfolio created for local portrait artist: https://cw-artist.vercel.app/
 <br>
-Take a look at the promo video for our final project here: https://lnkd.in/eUmzpMJJ
+Take a look at the promo video for our SoC final project here: https://lnkd.in/eUmzpMJJ
 <br>
 <br>
 <img width="200" alt="Screenshot 2024-01-05 at 15 05 24" src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/55eeee4e-cd01-4085-a3da-8c286cba1775">
@@ -17,10 +17,10 @@ Take a look at the promo video for our final project here: https://lnkd.in/eUmzp
 
 <br>
 <br>
-Before The School of Code...
+Before the career change...
 
 After achieving a masters degree in Mathematics from Durham University, I was a maths teacher for 18 years in the sixth-form sector, teaching A-levels in Maths and Further Maths.
-During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. I'm now a full-stack developer-in-training with The School of Code! 
+During that time I also took on roles as NW2 Post-16 Maths-Hub Lead & Head of Department. I'm now a full-stack developer-in-training! 
 
 I'm currently working on various projects and adding new features as I learn about them...Please see my pinned repos!
 
