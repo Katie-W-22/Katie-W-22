@@ -1,5 +1,4 @@
 <img src="https://github.com/Katie-W-22/Katie-W-22/assets/142401708/51bc51d0-d08d-497a-a111-1a06f271c090">
-![Katie banner](Katie-W-22/katiebanner.png)
 
 <br>
 <br>
