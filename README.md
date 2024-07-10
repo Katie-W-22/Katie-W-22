@@ -1,6 +1,6 @@
 <img src="katiebanner.png" width="1000" height="250"><br>
 <br>
-Hi Everyone! I'm a junior software engineer! 👩🏻‍💻 
+Hi Everyone! I'm a junior software engineer who is currently studying for the CFGDegree (Fullstack)! 👩🏻‍💻 
 <br>
 <br>
 My portfolio: https://katie-williams.vercel.app/   (mobile first)
